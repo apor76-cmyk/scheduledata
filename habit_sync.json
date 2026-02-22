@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "name": "Listen1",
+      "color": "#96d35f"
+    },
+    {
+      "name": "Listen2",
+      "color": "#669d34"
+    },
+    {
+      "name": "Listen3",
+      "color": "#38571a"
+    }
+  ],
+  "habits": [
+    {
+      "name": "1be",
+      "cat": "0"
+    },
+    {
+      "name": "2be",
+      "cat": "0"
+    },
+    {
+      "name": "3be",
+      "cat": "0"
+    },
+    {
+      "name": "4do",
+      "cat": "0"
+    },
+    {
+      "name": "5are u do u",
+      "cat": "0"
+    },
+    {
+      "name": "6have",
+      "cat": "0"
+    },
+    {
+      "name": "7go",
+      "cat": "0"
+    },
+    {
+      "name": "8see",
+      "cat": "0"
+    },
+    {
+      "name": "9know",
+      "cat": "0"
+    },
+    {
+      "name": "10say",
+      "cat": "0"
+    },
+    {
+      "name": "11make",
+      "cat": "0"
+    },
+    {
+      "name": "12get",
+      "cat": "0"
+    },
+    {
+      "name": "13take",
+      "cat": "0"
+    }
+  ],
+  "stages": [
+    "O",
+    "Read1",
+    "Read2",
+    "Listen1",
+    "Listen2",
+    "Speak(k-e)"
+  ],
+  "data": {
+    "1beMon Feb 16 2026": 0,
+    "1beWed Feb 18 2026": 0
+  },
+  "recurrenceList": [
+    {
+      "days": 1,
+      "color": "#f87171"
+    },
+    {
+      "days": 7,
+      "color": "#864ffe"
+    },
+    {
+      "days": 30,
+      "color": "#f5ec00"
+    }
+  ]
+}
